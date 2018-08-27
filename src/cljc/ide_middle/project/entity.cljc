@@ -36,3 +36,5 @@
 
 (def git-push "git-push")
 
+(def git-diff "git-diff")
+
