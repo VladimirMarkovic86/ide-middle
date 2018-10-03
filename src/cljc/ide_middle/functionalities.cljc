@@ -27,6 +27,8 @@
 
 (def build-project "build-project")
 
+(def build-uberjar "build-uberjar")
+
 (def build-project-dependencies "build-project-dependencies")
 
 (def clean-project "clean-project")
@@ -55,6 +57,7 @@
        copy-document
        delete-document
        build-project
+       build-uberjar
        build-project-dependencies
        clean-project
        run-project

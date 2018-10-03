@@ -27,6 +27,9 @@
 (def build-project-url
      "/build-project")
 
+(def build-uberjar-url
+     "/build-uberjar")
+
 (def build-project-dependencies-url
      "/build-project-dependencies")
 
