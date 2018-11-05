@@ -3,3 +3,6 @@
 (def project-cname
      "project")
 
+(def task-cname
+     "task")
+

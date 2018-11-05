@@ -13,6 +13,18 @@
 (def project-delete
      "project-delete")
 
+(def task-create
+     "task-create")
+
+(def task-read
+     "task-read")
+
+(def task-update
+     "task-update")
+
+(def task-delete
+     "task-delete")
+
 (def read-file
      "read-file")
 
@@ -68,6 +80,10 @@
        project-read
        project-update
        project-delete
+       task-create
+       task-read
+       task-update
+       task-delete
        read-file
        execute-shell-command
        list-documents
