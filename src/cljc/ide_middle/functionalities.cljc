@@ -70,8 +70,32 @@
 (def git-status
      "git-status")
 
+(def git-diff
+     "git-diff")
+
+(def git-log
+     "git-log")
+
+(def git-unpushed
+     "git-unpushed")
+
+(def git-commit-push
+     "git-commit-push")
+
+(def git-file-change-state
+     "git-file-change-state")
+
+(def git-commit-push-action
+     "git-commit-push-action")
+
 (def save-file-changes
      "save-file-changes")
+
+(def versioning-project
+     "versioning-project")
+
+(def projects-tree
+     "projects-tree")
 
 (def functionalities
      (conj
@@ -99,5 +123,13 @@
        run-project
        git-project
        git-status
-       save-file-changes))
+       git-diff
+       git-log
+       git-unpushed
+       git-commit-push
+       git-file-change-state
+       git-commit-push-action
+       save-file-changes
+       versioning-project
+       projects-tree))
 

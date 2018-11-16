@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/ide-middle "0.2.1"
+(defproject org.clojars.vladimirmarkovic86/ide-middle "0.2.2"
   :description "Integrated development environment middleware"
   :url "http://github.com/VladimirMarkovic86/ide-middle"
   :license {:name "Eclipse Public License"

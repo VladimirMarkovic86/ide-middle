@@ -45,6 +45,30 @@
 (def git-status-url
      "/git-status")
 
+(def git-diff-url
+     "/git-diff")
+
+(def git-log-url
+     "/git-log")
+
+(def git-unpushed-url
+     "/git-unpushed")
+
+(def git-commit-push-url
+     "/git-commit-push")
+
+(def git-file-change-state-url
+     "/git-file-change-state")
+
+(def git-commit-push-action-url
+     "/git-commit-push-action")
+
 (def save-file-changes-url
      "/save-file-changes")
+
+(def versioning-project-url
+     "/versioning-project")
+
+(def projects-tree-url
+     "/projects-tree")
 
