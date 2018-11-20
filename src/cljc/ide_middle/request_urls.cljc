@@ -69,6 +69,9 @@
 (def versioning-project-url
      "/versioning-project")
 
+(def find-text-in-files-url
+     "/find-text-in-files")
+
 (def projects-tree-url
      "/projects-tree")
 

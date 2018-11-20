@@ -94,6 +94,9 @@
 (def versioning-project
      "versioning-project")
 
+(def find-text-in-files
+     "find-text-in-files")
+
 (def projects-tree
      "projects-tree")
 
@@ -131,5 +134,6 @@
        git-commit-push-action
        save-file-changes
        versioning-project
+       find-text-in-files
        projects-tree))
 
