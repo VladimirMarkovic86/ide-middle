@@ -94,6 +94,15 @@
 (def versioning-project
      "versioning-project")
 
+(def upgrade-versions
+     "upgrade-versions")
+
+(def upgrade-versions-save
+     "upgrade-versions-save")
+
+(def upgrade-versions-build
+     "upgrade-versions-build")
+
 (def find-text-in-files
      "find-text-in-files")
 
@@ -134,6 +143,9 @@
        git-commit-push-action
        save-file-changes
        versioning-project
+       upgrade-versions
+       upgrade-versions-save
+       upgrade-versions-build
        find-text-in-files
        projects-tree))
 

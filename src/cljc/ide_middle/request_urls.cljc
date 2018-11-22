@@ -69,6 +69,15 @@
 (def versioning-project-url
      "/versioning-project")
 
+(def upgrade-versions-url
+     "/upgrade-versions")
+
+(def upgrade-versions-save-url
+     "/upgrade-versions-save")
+
+(def upgrade-versions-build-url
+     "/upgrade-versions-build")
+
 (def find-text-in-files-url
      "/find-text-in-files")
 
