@@ -4,7 +4,7 @@ Integrated development environment middleware is project that gathers urls and f
 
 ### Installing
 
-You can use this project as dependencie in clojure projects by listing it in project.clj
+You can use this project as dependency in clojure projects by listing it in project.clj
 
 ```
 [org.clojars.vladimirmarkovic86/ide-middle "0.1.0"]
