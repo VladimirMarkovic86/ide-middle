@@ -1,14 +1,14 @@
 (ns ide-middle.project.entity)
 
-(def clojure "Clojure")
+(def clojure "clojure")
 
-(def clojure-script "Clojure/Script")
+(def clojure-script "clojure_script")
 
-(def clojurescript "ClojureScript")
+(def clojurescript "clojurescript")
 
-(def application "Application")
+(def application "application")
 
-(def library "Library")
+(def library "library")
 
 (def start "start")
 
