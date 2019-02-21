@@ -84,3 +84,6 @@
 (def projects-tree-url
      "/projects-tree")
 
+(def video-url
+     "/video")
+
