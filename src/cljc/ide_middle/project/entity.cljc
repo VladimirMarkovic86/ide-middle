@@ -38,3 +38,5 @@
 
 (def git-diff "git-diff")
 
+(def rows
+     10)
